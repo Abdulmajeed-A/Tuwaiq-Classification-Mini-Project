@@ -110,11 +110,10 @@ Best Parameters:
 ---
 
 ##  Technologies Used
-- Python  
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Matplotlib  
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Matplotlib & Seaborn 
 
 ---
 
@@ -123,10 +122,3 @@ data/
 README.md  
 Tuwaiq_Classification_Mini_Project.ipynb  
 
----
-
-##  Future Work
-- Try other models (Logistic Regression, Random Forest)  
-- Feature engineering  
-- Larger datasets
-- 
